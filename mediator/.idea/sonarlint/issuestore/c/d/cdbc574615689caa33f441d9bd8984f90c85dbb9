@@ -1,0 +1,6 @@
+
+X
+java:S4977"=Rename "R" which hides a type parameter from the outer scope.(ÓğÅüÿÿÿÿ
+5
+java:S2326"R is not used in the interface.(°Êó
+^	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(°Êó
